@@ -1,0 +1,18 @@
+.App {
+  min-height: 100vh;
+}
+.cursor-pointer:hover {
+  cursor: pointer;
+}
+
+.list-item-image {
+  min-height: 180px;
+  min-width: 180px;
+}
+.delete-btn:hover {
+  color: #9e1b1b !important;
+}
+.logo{
+  width: 2.5rem;
+  margin-right: 1.5rem;
+}
